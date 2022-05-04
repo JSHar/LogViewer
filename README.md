@@ -62,6 +62,7 @@ Feel free to check out the [releases](https://github.com/ARCANEDEV/LogViewer/rel
 | `id`    | Indonesian            |
 | `it`    | Italian               |
 | `ja`    | Japanese              |
+| `ka`    | Georgian              |
 | `ko`    | Korean                |
 | `ms`    | Malay                 |
 | `nl`    | Dutch                 |
